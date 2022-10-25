@@ -5,3 +5,5 @@
 根据地点预测潮汐情况。
 理论上可以根据公式calculate，后期想引入ml或dl进行predict。
 ## 十二分法则？
+
+https://eoceanic.com/sailing/tips/35/310/%27rule_of_twelfths%27%3A_a_simple_method_for_estimating_intermediate_tidal_heights/?
