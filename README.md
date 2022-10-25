@@ -7,3 +7,7 @@
 ## 十二分法则？
 
 https://eoceanic.com/sailing/tips/35/310/%27rule_of_twelfths%27%3A_a_simple_method_for_estimating_intermediate_tidal_heights/?
+
+## UPDATE 10.25:
+- 数据集 done
+- 后续计划用各种手段预测，顺便回顾一下ML和DL基础知识。
