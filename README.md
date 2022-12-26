@@ -11,3 +11,8 @@ https://eoceanic.com/sailing/tips/35/310/%27rule_of_twelfths%27%3A_a_simple_meth
 ## UPDATE 10.25:
 - 数据集 done
 - 后续计划用各种手段预测，顺便回顾一下ML和DL基础知识。
+
+## UPDATE 12.26:
+- 浅浅看了一下数据，分析了一下一个站点的水位最高处和最低处。
+
+![](https://4myblog.oss-cn-beijing.aliyuncs.com/img/20221226223839.png)
